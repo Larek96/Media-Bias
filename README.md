@@ -12,4 +12,5 @@ This dataset includes a column, percent_agree, that gives a rating on how much t
 
 The primary questions I hoped for this to answer:
 A) Is there more of a left or right media bias in general?
-B) Identify left or right 
+B) Identify prominent outlets that are left, right, or center. 
+C) Are there particular outlets more crediable than others, despite bias?
