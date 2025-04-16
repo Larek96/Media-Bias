@@ -1,0 +1,543 @@
+news_source,rating,rating_num,type,percent_agree,confidence_level
+AARP,center,3,Think Tank / Policy Group,37.47%,NA
+ABC News,left-center,2,News Media,59.45%,High
+Accuracy in Media,right,5,Think Tank / Policy Group,62.59%,Medium
+ACLU,left-center,2,Think Tank / Policy Group,42.84%,NA
+AJ+,left,1,News Media,72.22%,Low
+Al Cardenas,right,5,Author,59.73%,NA
+Al Jazeera,left-center,2,News Media,37.65%,Low
+Allysia Finley (Wall Street Journal),right,5,Author,46.38%,NA
+AlterNet,left,1,News Media,79.57%,High
+American Conservative Union,right,5,Think Tank / Policy Group,64.41%,NA
+American Enterprise Institute,right-center,4,Think Tank / Policy Group,65.95%,Low
+American Greatness,right,5,News Media,83.02%,Low
+American Spectator,right,5,News Media,71.24%,Medium
+American Thinker,right,5,News Media,64.47%,Medium
+Americans for Democratic Action,left,1,Think Tank / Policy Group,69.45%,NA
+Americans for Tax Reform,right,5,Think Tank / Policy Group,58.18%,NA
+Andrew Napolitano,right,5,Author,55.25%,NA
+Andrew Sullivan,right-center,4,Author,50.00%,NA
+Andy Ngo,center,3,Author,53.33%,Low
+Ann Coulter,right,5,Author,80.47%,Medium
+Annafi Wahed,left-center,2,Author,51.04%,Low
+AP,center,3,Author,55.22%,Low
+Aquinas College Saint,left,1,News Media,61.77%,NA
+Arkadi Gerney,left-center,2,Author,53.61%,Low
+Arkansas Democrat-Gazette,left,1,News Media,56.92%,Low
+Associated Press,left,1,News Media,58.24%,Medium
+Association for Psychological Science,center,3,Think Tank / Policy Group,55.35%,Low
+Atlanta Journal-Constitution,left-center,2,News Media,52.05%,Low
+Atlas Network,right,5,Think Tank / Policy Group,60.00%,Medium
+AtlasOne,right-center,4,Think Tank / Policy Group,46.33%,Medium
+Austin American-Statesman,left-center,2,News Media,56.96%,Low
+Axios,left-center,2,News Media,46.42%,Low
+AZ Central,center,3,News Media,26.47%,NA
+Barnstable Patriot,center,3,News Media,46.20%,Low
+BBC News,center,3,News Media,50.49%,Medium
+Bearing Drift,right,5,News Media,53.78%,High
+Ben Sargent (cartoonist),left,1,Author,46.65%,NA
+Ben Shapiro,right,5,Author,62.22%,NA
+Ben Stein,right-center,4,Author,57.61%,NA
+Beth Ballentine,center,3,Author,46.12%,Low
+Billy Binion,center,3,Author,56.61%,Medium
+Bloomberg,left-center,2,News Media,45.93%,Medium
+Blue Virginia,left,1,News Media,58.20%,NA
+Bob Gorrell (cartoonist),right,5,Author,56.07%,NA
+Boing Boing,left,1,News Media,60.89%,Low
+Boston Herald,right-center,4,News Media,53.11%,Low
+Boston Herald Editorial,right-center,4,News Media,52.19%,Low
+Bowling Green Daily News,left-center,2,News Media,47.89%,Low
+Breitbart News,right,5,News Media,67.72%,High
+Brent Bozell,right,5,Author,53.07%,High
+Bret Stephens,right-center,4,Author,44.33%,NA
+Brookings Institution,center,3,Think Tank / Policy Group,60.36%,NA
+Business Insider,center,3,News Media,46.67%,NA
+Bustle,left-center,2,News Media,49.41%,Low
+BuzzFeed News,left,1,News Media,48.24%,Medium
+C-SPAN,center,3,News Media,77.05%,Medium
+CalMatters,center,3,News Media,55.83%,Low
+CalWatchdog,center,3,News Media,48.64%,Medium
+Care 2,left,1,News Media,48.33%,NA
+Carnegie Endowment for International Peace,center,3,Think Tank / Policy Group,55.96%,NA
+Carrie Lukas,right,5,Author,55.78%,NA
+Cathy Young,right-center,4,Author,39.29%,Low
+Cato Institute (blog),right-center,4,Think Tank / Policy Group,39.67%,NA
+CBN,right,5,News Media,65.65%,Medium
+CBS News,left-center,2,News Media,56.16%,Low
+Center - Major Media Sources,center,3,News Media,54.18%,NA
+Center For American Progress,left-center,2,Think Tank / Policy Group,40.45%,NA
+Center for Media & Democracy PR Watch,left-center,2,Think Tank / Policy Group,50.35%,NA
+Center for Public Integrity,left-center,2,News Media,47.10%,NA
+Center for Strategic and Budgetary Assessments,right-center,4,Think Tank / Policy Group,45.14%,NA
+Center on Budget and Policy Priorities,left,1,Think Tank / Policy Group,53.02%,NA
+Centre View,left-center,2,News Media,46.75%,NA
+Chan Lowe (cartoonist),left,1,Author,45.78%,NA
+Charles Blow,left-center,2,Author,49.40%,Low
+Charles Krauthammer,right-center,4,Author,51.55%,NA
+Charlie Kirk,right,5,Author,68.09%,Low
+Chicago Sun-Times,left-center,2,News Media,50.20%,Medium
+Chicago Tribune,center,3,News Media,35.63%,Low
+Children’s Defense Fund,left,1,Think Tank / Policy Group,47.68%,NA
+Chip Bok (cartoonist),right,5,Author,51.83%,NA
+Chris Britt (cartoonist),center,3,Author,63.79%,NA
+Chris Ruddy,right,5,Author,40.83%,Low
+Christian Science Monitor,center,3,News Media,43.14%,High
+Christiane Amanpour,left-center,2,Author,43.66%,Low
+Christopher Buskirk,right-center,4,Author,52.17%,Low
+Chuck Asay (cartoonist),right,5,Author,54.52%,NA
+City Journal,right,5,News Media,55.79%,Low
+CivilPolitics.org,center,3,Think Tank / Policy Group,50.12%,NA
+Clay Bennett (cartoonist),left,1,Author,57.34%,NA
+CNBC,left-center,2,News Media,28.24%,Low
+CNET,center,3,News Media,53.10%,NA
+CNN (Web News),left-center,2,News Media,48.94%,High
+CNN - Editorial,left,1,News Media,77.88%,Medium
+CNS News,right,5,News Media,54.72%,Low
+CNSNews.com,right,5,News Media,53.96%,Low
+Columbia Journalism Review,center,3,News Media,32.69%,Low
+Commentary Magazine,right,5,News Media,49.23%,Low
+Conor Friedersdorf,center,3,Author,42.86%,Low
+Conservative HQ,right,5,News Media,69.35%,Low
+Cook Report,center,3,News Media,62.34%,Low
+Council on Foreign Relations,left,1,Think Tank / Policy Group,41.57%,Low
+Countable,center,3,News Media,47.92%,High
+Counter Currents,left-center,2,News Media,59.10%,Low
+Counterpointing,allsides,NA,News Media,51.17%,Low
+CrowdPAC,center,3,News Media,48.92%,Low
+CU Independent,center,3,News Media,44.84%,Low
+Current Affairs,left,1,News Media,72.28%,Low
+Daily Beast,left,1,News Media,64.52%,NA
+Daily Cardinal,center,3,News Media,48.36%,Low
+Daily Kos,left,1,News Media,73.02%,Low
+Daily Mail,right,5,News Media,57.30%,Medium
+Daily Northwestern,left-center,2,News Media,48.96%,Low
+Daily Press,right-center,4,News Media,42.71%,Low
+Daily Progress,center,3,News Media,50.79%,NA
+Daily Targum,left-center,2,News Media,36.79%,Low
+Damon Linker,left-center,2,Author,48.25%,Medium
+Dan Lucas,right,5,Author,57.50%,NA
+Dan Wasserman (cartoonist),left,1,Author,70.27%,NA
+Dana Milbank,center,3,Author,38.52%,NA
+Dana Summers (cartoonist),right-center,4,Author,49.71%,NA
+David Brooks,right-center,4,Author,44.23%,Medium
+David Holmes,left-center,2,Author,54.78%,Low
+David Ignatius,center,3,Author,43.87%,Low
+David Leonhardt,left-center,2,Author,55.12%,NA
+Debra Saunders,right,5,Author,54.47%,NA
+Defense One,center,3,News Media,51.49%,Low
+Democracy Now,left,1,News Media,74.68%,Low
+Deseret News,right-center,4,News Media,38.10%,Low
+Dick Locher (cartoonist),right,5,Author,30.16%,NA
+Dick Morris,right-center,4,Author,42.21%,NA
+Diplomatic Courier,center,3,News Media,56.49%,Medium
+Drew Litton (cartoonist),center,3,Author,29.41%,NA
+Drew Sheneman (cartoonist),left,1,Author,54.81%,NA
+Drudge Report,right-center,4,News Media,61.16%,Medium
+Duke Chronicle,center,3,News Media,50.70%,Low
+E J Dionne,left,1,Author,55.57%,Low
+Economic Policy Institute,left,1,Think Tank / Policy Group,47.59%,NA
+Ed Rogers,right,5,Author,62.79%,NA
+EdVotes.org,left,1,Think Tank / Policy Group,70.16%,NA
+Edward Morrissey,right,5,Author,50.40%,NA
+Eli Parser,left,1,Author,59.09%,Low
+Environmental Defense Fund,left-center,2,Think Tank / Policy Group,60.05%,NA
+Eric Allie (cartoonist),right,5,Author,53.23%,NA
+Erik Wemple,center,3,Author,43.04%,Low
+Esquire,left,1,News Media,64.64%,Low
+Estes Park Trail Gazette,center,3,News Media,42.02%,NA
+Eugene Robinson,left,1,Author,58.61%,NA
+Eurek Alert,center,3,News Media,47.36%,Low
+Ezra Klein,left,1,Author,57.27%,Low
+Fact Checker Blog,center,3,News Media,54.81%,Low
+FactCheck.org,center,3,News Media,57.74%,Low
+FAIR,left-center,2,Think Tank / Policy Group,44.00%,NA
+Fair.org,center,3,News Media,49.70%,Low
+Falls Church News - Press,left,1,News Media,44.73%,NA
+Family Research Council,right-center,4,Think Tank / Policy Group,37.18%,NA
+Fareed Zakaria,center,3,Author,33.51%,Low
+Federation of American Scientists,left-center,2,Think Tank / Policy Group,46.49%,Low
+Financial Times,center,3,News Media,61.15%,Low
+Fiscal Times,right-center,4,News Media,55.43%,Low
+FiveThirtyEight,center,3,News Media,62.23%,Low
+Food Democracy Now,left-center,2,Think Tank / Policy Group,51.39%,NA
+Forbes,center,3,News Media,61.92%,NA
+Foreign Affairs,center,3,News Media,64.36%,Low
+Fox News Latino,right,5,News Media,65.36%,Low
+Fox News Opinion,right,5,News Media,79.99%,Low
+Fox Online News,right,5,News Media,41.43%,High
+Frank Bruni,left-center,2,Author,41.56%,Low
+Frank Miniter,right,5,Author,50.36%,Low
+Freakonomics,center,3,Think Tank / Policy Group,59.60%,NA
+Freedom House,right-center,4,Think Tank / Policy Group,41.26%,Low
+Froma Harrop,left-center,2,Author,54.46%,NA
+FrontPage Magazine,right,5,News Media,56.29%,Medium
+Gary Markstein (cartoonist),center,3,Author,35.64%,NA
+Gary Varvel (cartoonist),right,5,Author,72.00%,NA
+Gell,allsides,NA,Think Tank / Policy Group,67.50%,Medium
+George Will,right,5,Author,42.02%,NA
+Glenn Beck,right,5,Author,73.59%,Low
+Glenn McCoy (cartoonist),right,5,Author,57.14%,NA
+Google News,left-center,2,News Media,66.27%,Medium
+GOP.gov,right,5,Think Tank / Policy Group,66.49%,NA
+Grist,left-center,2,News Media,47.01%,NA
+Grover Norquist,right,5,Author,79.00%,NA
+Guest Writer - Center,center,3,Author,33.33%,High
+Guest Writer - Left,left-center,2,Author,36.83%,Medium
+Guest Writer - Right,right-center,4,Author,39.45%,Medium
+Hampton Roads Messanger,center,3,News Media,50.08%,NA
+Harvard Business School,left-center,2,News Media,46.36%,Low
+Healthcare.gov,left-center,2,Think Tank / Policy Group,34.30%,NA
+Heather Mac Donald,right,5,Author,35.48%,Medium
+Henry A. Brechter,center,3,Author,61.11%,Medium
+Henry Payne (cartoonist),right,5,Author,41.48%,NA
+Herald Democrat,left,1,News Media,56.70%,Low
+Hirsh Joshi,left-center,2,Author,NaN,NA
+Honolulu Civil Beat,center,3,News Media,42.12%,Low
+HotAir,right-center,4,News Media,52.84%,Low
+How Do We Fix It?,center,3,News Media,50.27%,Medium
+Howard Kurtz,center,3,News Media,52.17%,Low
+Howard Kurtz,center,3,Author,56.53%,Low
+HuffPost,left,1,News Media,50.76%,High
+Inacow,right,5,News Media,59.89%,Low
+Independent Institute,right-center,4,Think Tank / Policy Group,45.05%,Medium
+Independent Journal Review,right-center,4,News Media,52.24%,Medium
+Indiana Daily Student,center,3,News Media,42.91%,Low
+Indy Online,center,3,News Media,47.17%,Low
+Indy Week,left-center,2,News Media,45.95%,Low
+InfoWars,right,5,News Media,81.42%,Medium
+Inside Philanthropy,center,3,News Media,48.48%,NA
+Intellectual Conservative,right-center,4,News Media,49.22%,NA
+International Business Times,center,3,News Media,57.27%,NA
+Investor's Business Daily,right-center,4,News Media,55.66%,Low
+IVN,center,3,News Media,50.82%,Medium
+Jack Ohman (cartoonist),left,1,Author,59.38%,NA
+Jack Welch,right-center,4,Author,57.35%,NA
+Jacobin,left,1,News Media,86.17%,Low
+James Hohmann,right-center,4,Author,42.19%,NA
+James Pethokoukis,right-center,4,Author,46.83%,Low
+James Poulos,right,5,Author,63.51%,Low
+Jeff Danziger (cartoonist),left,1,Author,50.00%,NA
+Jeff Jacoby,right,5,Author,58.97%,Low
+Jeff Stahler (cartoonist),left,1,Author,61.45%,NA
+Jen Sorensen (cartoonist),left,1,Author,61.84%,NA
+Jennifer Rubin,left-center,2,Author,37.00%,NA
+Jeremy E Sherman,left-center,2,Author,50.00%,Low
+Jerry Bowyer,right,5,Author,36.18%,Low
+Jerry Holbert (cartoonist),right,5,Author,53.25%,NA
+Jesse Jackson,left,1,Author,85.25%,Medium
+Jezebel,left,1,News Media,75.00%,Low
+Jim Morin (cartoonist),left,1,Author,74.29%,NA
+Jim Rutenberg,left-center,2,Author,52.75%,NA
+Joan Blades,left,1,Author,35.65%,Low
+Joe Scarborough,right-center,4,Author,19.29%,NA
+Joel Pett (cartoonist),left,1,Author,52.27%,NA
+John Boehner,right,5,Author,39.43%,Low
+John Deering (cartoonist),center,3,Author,45.33%,NA
+John Fund,right-center,4,Author,44.89%,Low
+"John Gable, AllSides Founder",right-center,4,Author,43.64%,Medium
+John K. Herr,right-center,4,Author,53.62%,NA
+John Pudner,right,5,Author,40.32%,Medium
+John Stossel,right-center,4,Author,54.90%,Medium
+Jon Terbush,left-center,2,Author,41.40%,Low
+Jonah Goldberg,right,5,Author,40.54%,Low
+Jonathan Chait,left,1,Author,52.32%,Medium
+Jonathan Miller,left,1,Author,48.18%,Medium
+Journalist's Resource,center,3,News Media,46.28%,Low
+Juan Williams,left-center,2,Author,52.04%,NA
+Jubilee Media,center,3,News Media,56.84%,NA
+Judicial Watch,right-center,4,News Media,46.83%,Low
+Julian Zelizer,left-center,2,Author,44.13%,Low
+Kathleen Parker,right-center,4,Author,61.69%,NA
+KATU,center,3,News Media,41.18%,Low
+Ken Catalino (cartoonist),right,5,Author,41.94%,NA
+Kevin Kallaugher (cartoonist),left-center,2,Author,55.17%,Low
+Kimberley A. Strassel,right,5,Author,59.53%,NA
+Kirsten Powers,left-center,2,Author,59.38%,Low
+KQED,center,3,News Media,54.55%,Low
+KSL,right,5,News Media,57.14%,Low
+Lalo Alcaraz (cartoonist),left,1,Author,60.71%,NA
+Lanhee Chen,right,5,Author,40.54%,Low
+Las Vegas Sun,left-center,2,News Media,49.02%,Low
+Laura Rose Junco,center,3,Author,20.00%,Low
+Lauren Duca,left,1,Author,65.17%,Low
+Leesburg Today,right-center,4,News Media,54.49%,Low
+Left - Major Media Sources,left,1,News Media,57.45%,NA
+Left Guest Commentaries,left,1,Author,47.25%,NA
+Leonard Pitts Jr,left,1,Author,53.54%,Low
+Lifehacker,center,3,News Media,50.50%,Low
+Lisa Benson (cartoonist),right,5,Author,50.59%,NA
+Lisa Gable,right,5,Author,54.05%,Low
+Listen First Project,allsides,NA,News Media,57.34%,High
+Live Action News,right-center,4,News Media,60.96%,Low
+Living Room Conversations,allsides,NA,News Media,43.72%,High
+Longmont Times-Call,left-center,2,News Media,48.43%,NA
+Los Angeles Times,left-center,2,News Media,57.54%,Low
+Louisville Courier-Journal,left-center,2,News Media,51.50%,Low
+Manhattan Institute,right-center,4,Think Tank / Policy Group,38.48%,NA
+Marc A. Thiessen,right,5,Author,55.41%,NA
+Mark Gerzon,center,3,Author,45.00%,Low
+Mark Mix,right,5,Author,59.59%,NA
+Mark Morford,left,1,Author,62.86%,NA
+MarketWatch,right-center,4,News Media,37.66%,Low
+Marshall Ramsey (cartoonist),center,3,Author,55.91%,NA
+Mary O'Grady,right,5,Author,42.19%,NA
+Mashable,left,1,News Media,74.03%,Low
+Matt Bors (cartoonist),left,1,Author,75.00%,NA
+Matt Davies (cartoonist),left,1,Author,66.67%,NA
+Matt Drudge,right,5,Author,56.79%,Medium
+Matt Towery,right-center,4,Author,52.33%,NA
+Matt Welch,right-center,4,Author,31.41%,Low
+Matt Wuerker (cartoonist),left,1,Author,63.04%,NA
+Maureen Dowd,center,3,Author,26.69%,Low
+McClatchyDC,center,3,News Media,47.37%,Low
+Media Matters,left,1,News Media,61.32%,NA
+Media Research Center,right,5,News Media,44.79%,NA
+Mediaite,left-center,2,News Media,49.36%,Low
+Miami Herald,left-center,2,News Media,47.53%,Low
+Michael Barone,right-center,4,Author,56.08%,NA
+Michael Brendan Dougherty,right-center,4,Author,48.00%,Low
+Michael Gerson,right-center,4,Author,53.71%,NA
+Michael Goodwin,right,5,Author,60.27%,Low
+Michael Graham,right,5,Author,36.36%,Low
+Michael Kinsley,left,1,Author,56.35%,Medium
+Michael Medved,right,5,Author,46.07%,Low
+Michael Ramirez (cartoonist),right,5,Author,44.57%,NA
+Michelle Alexander,left-center,2,Author,50.00%,Low
+Michelle Malkin,right,5,Author,64.97%,NA
+MichelleMalkin.com,right,5,News Media,67.72%,NA
+Michigan Daily,left-center,2,News Media,53.28%,Low
+Mike Lester (cartoonist),right,5,Author,66.67%,NA
+Mike Luckovich (cartoonist),left,1,Author,54.96%,NA
+Mike Thompson (cartoonist),center,3,Author,42.11%,NA
+Mismatch.org,allsides,NA,News Media,41.30%,High
+MIT News,center,3,News Media,55.38%,Low
+Morgan Jacobsen,center,3,Author,41.79%,NA
+Mother Jones,left,1,News Media,84.27%,NA
+MSNBC,left,1,News Media,74.71%,Medium
+MTV News Online,left-center,2,News Media,43.94%,NA
+National Committee to Preserve Social Security and Medicare,left,1,Think Tank / Policy Group,49.60%,NA
+National Interest,center,3,Think Tank / Policy Group,43.49%,Low
+National Journal,center,3,News Media,58.15%,NA
+National Review,right,5,News Media,67.74%,Medium
+NBC Today Show,left-center,2,News Media,46.68%,NA
+NBCNews.com,left-center,2,News Media,43.84%,Medium
+Neil J. Young,left-center,2,Author,33.33%,Low
+New Economy Working Group,left-center,2,Think Tank / Policy Group,59.39%,NA
+New Republic,left,1,News Media,65.08%,Low
+New York Daily News,left,1,News Media,69.28%,Low
+New York Magazine,left,1,News Media,68.55%,Low
+New York Post,right,5,News Media,59.26%,Low
+New York Times - News,right-center,4,News Media,38.32%,High
+New York Times - Opinion,left,1,News Media,76.38%,High
+NewsBusters,right,5,Think Tank / Policy Group,64.00%,NA
+Newsmax,right,5,News Media,43.24%,Medium
+Newsweek,left-center,2,News Media,45.20%,Medium
+Newt Gingrich,right,5,Author,70.33%,NA
+Nicholas Kristof,left,1,Author,50.83%,Low
+Nick Anderson (cartoonist),center,3,Author,39.47%,NA
+NMPolitics.net,center,3,News Media,41.67%,Low
+No Labels,center,3,Think Tank / Policy Group,57.69%,NA
+Noah Rothman,right-center,4,Author,57.89%,Low
+NPR Editorial,left-center,2,News Media,48.60%,Low
+NPR Online News,center,3,News Media,57.24%,Medium
+One America News Network,right-center,4,News Media,49.51%,Low
+OpenSecrets.org,center,3,Think Tank / Policy Group,55.05%,Low
+Orange County Register,right-center,4,News Media,54.72%,Low
+Pacific Research Institute,right,5,Think Tank / Policy Group,46.89%,Low
+Pacific Standard,left-center,2,News Media,53.33%,Low
+Pat Oliphant (cartoonist),center,3,Author,46.15%,NA
+Paul Krugman,left,1,Author,61.40%,High
+Paul Szep (cartoonist),center,3,Author,53.19%,NA
+PBS NewsHour,center,3,News Media,57.71%,Low
+Peacock Panache,left,1,News Media,65.91%,Low
+Peggy Noonan,right,5,Author,42.60%,NA
+People for the American Way,left,1,Think Tank / Policy Group,60.98%,NA
+Peter Roff,right-center,4,Author,60.90%,Medium
+Peter Thiel,right-center,4,Author,33.33%,Low
+Physicians for a National Health Program,left,1,Think Tank / Policy Group,58.14%,Low
+Piers Morgan,left-center,2,Author,34.52%,Low
+Pittsburgh Post-Gazette,right-center,4,News Media,45.70%,Low
+PJ Media,right-center,4,News Media,54.60%,Low
+PJ Media,right,5,News Media,64.94%,Low
+Politico,left-center,2,News Media,39.09%,Medium
+PoliticusUSA,left,1,News Media,75.58%,Low
+PolitiFact,left-center,2,News Media,41.55%,Low
+Portland Press Herald,center,3,News Media,39.66%,Medium
+Prager University,right,5,Think Tank / Policy Group,79.25%,High
+PRI (Public Radio International),center,3,News Media,63.81%,Low
+ProCon.org,allsides,NA,News Media,63.11%,Low
+Progressive Voices of Iowa,left,1,News Media,64.44%,Low
+Project Veritas,right-center,4,News Media,40.26%,Low
+ProPublica,center,3,News Media,61.24%,NA
+PXW News,center,3,News Media,48.84%,Low
+Quartz,center,3,News Media,52.73%,Low
+Quillette,right-center,4,News Media,36.91%,Low
+Rachel Eckhardt,left-center,2,Author,38.24%,Medium
+Rahm Emanuel,left-center,2,Author,20.93%,NA
+Ralph Benko,right,5,Author,38.39%,Medium
+Ramesh Ponnuru,right,5,Author,59.12%,NA
+RAND Corporation,left-center,2,Think Tank / Policy Group,44.00%,NA
+Rand Paul,right-center,4,Author,54.02%,NA
+Rasmussen Reports,center,3,News Media,40.74%,NA
+Raw Story,left,1,News Media,62.31%,NA
+RealClearPolitics,center,3,News Media,53.58%,NA
+Reason,right-center,4,News Media,59.84%,Low
+Reason Foundation,right-center,4,Think Tank / Policy Group,48.73%,Low
+Record Journal,center,3,News Media,46.58%,Low
+Red State,right,5,News Media,75.13%,Low
+redefinED,center,3,Think Tank / Policy Group,65.80%,Low
+Rem Reider,center,3,Author,43.75%,Low
+Reuters,center,3,News Media,60.22%,Low
+Rich Lowry,right,5,Author,51.94%,NA
+Rich Tafel,center,3,Author,51.94%,Low
+Rich Zeoli,right-center,4,Author,52.54%,Low
+Richard A. Lowry,right,5,Author,58.40%,NA
+Richard M. Cohen,left-center,2,Author,66.67%,Low
+Richmond Times Dispatch,right-center,4,News Media,57.26%,Low
+Rick Ungar,left-center,2,Author,50.79%,NA
+Right - Major Media Sources,right,5,News Media,50.88%,NA
+Right Guest Commentaries,right,5,Author,54.00%,NA
+Right Side News,right,5,News Media,67.33%,Low
+Right Wing News,right,5,News Media,69.70%,High
+Rob Rogers (cartoonist),left,1,Author,83.75%,NA
+Robert Ariail (cartoonist),center,3,Author,47.27%,NA
+Robert Samuelson,center,3,Author,47.69%,NA
+Roll Call,center,3,News Media,50.71%,Low
+RollingStone.com,left,1,News Media,78.69%,NA
+Ross Douthat,right-center,4,Author,60.42%,NA
+Ruth Marcus,left-center,2,Author,48.64%,NA
+Ryan Cooper,left,1,Author,78.90%,Low
+Ryan Cooper,left,1,Author,62.83%,Low
+Sally Pipes,right,5,Author,69.83%,NA
+Salon,left,1,News Media,68.66%,Medium
+San Francisco Chronicle,left,1,News Media,75.20%,Low
+San Jose Mercury News,left-center,2,News Media,47.91%,Low
+SBG,center,3,Author,52.63%,Low
+Science Daily,center,3,News Media,62.07%,Low
+Scientific American,center,3,News Media,67.64%,Low
+Scott Adams,center,3,Author,46.88%,Low
+Scott Stantis (cartoonist),right,5,Author,40.00%,NA
+SF Weekly,center,3,News Media,42.57%,NA
+SFGate,left-center,2,News Media,47.07%,NA
+Signe Wilkinson (cartoonist),left,1,Author,59.52%,NA
+Sky-Hi Daily News,left-center,2,News Media,54.29%,NA
+Slate,left,1,News Media,58.24%,Low
+Small World (cartoonist),left,1,Author,35.90%,NA
+Smerconish,center,3,News Media,40.17%,Low
+Socialist Alternative,left,1,News Media,69.73%,Low
+Socialist Project/The Bullet,left,1,News Media,69.71%,Low
+Splinter,left,1,News Media,79.29%,Low
+Spokesman Review,left-center,2,News Media,47.54%,Low
+State Journal,left-center,2,News Media,41.39%,Low
+Steve Benson (cartoonist),left,1,Author,52.04%,NA
+Steve Breen (cartoonist),center,3,Author,56.04%,NA
+Steve Kelley (cartoonist),right,5,Author,48.28%,NA
+Steve Sack (cartoonist),left,1,Author,65.08%,NA
+StoryCorps,allsides,NA,News Media,50.00%,Low
+Stuart Carlson (cartoonist),left,1,Author,41.51%,NA
+Subverse,center,3,News Media,100.00%,Low
+Suspend Belief Podcast,allsides,NA,News Media,44.83%,Low
+Tallahassee Democrat,center,3,News Media,51.19%,Low
+TechCrunch,center,3,News Media,62.31%,Low
+Ted Rall (cartoonist),left,1,Author,59.68%,NA
+Teen Vogue,left-center,2,News Media,39.97%,Low
+Test Source,center,3,News Media,47.66%,NA
+The Advocate-Messenger,left-center,2,News Media,43.73%,Low
+The American Conservative,right-center,4,News Media,46.13%,Low
+The Atlantic,left,1,News Media,62.84%,NA
+The Boston Globe,left-center,2,News Media,56.71%,High
+The Cadiz Record,left-center,2,News Media,48.64%,Low
+The Canyon County Zephyr,left,1,News Media,55.87%,High
+The College Fix,right,5,News Media,54.92%,Low
+The Commercial Appeal,left-center,2,News Media,40.83%,Low
+The Courier-Journal,left-center,2,News Media,32.35%,Low
+The Daily Caller,right,5,News Media,64.63%,Medium
+The Daily Show (humor),left-center,2,News Media,43.13%,NA
+The Daily Signal,right,5,News Media,76.75%,Low
+The Daily Wire,right,5,News Media,66.92%,Medium
+The Dallas Morning News,center,3,News Media,59.20%,Low
+The Delaware County Daily Times,left-center,2,News Media,46.91%,Low
+The Economist,left-center,2,News Media,34.92%,NA
+The Epoch Times,right,5,News Media,67.50%,Medium
+The Federalist,right,5,News Media,67.00%,Low
+The Flip Side,allsides,NA,News Media,55.26%,High
+The Fulcrum,center,3,News Media,38.10%,Low
+The Gateway Pundit,right,5,News Media,57.76%,Low
+The Guardian,left,1,News Media,60.96%,Medium
+The Heritage Foundation,right-center,4,Think Tank / Policy Group,63.53%,NA
+The Hill,center,3,News Media,44.78%,Low
+The Independent,left-center,2,News Media,50.00%,NA
+The Intercept,left,1,News Media,65.71%,Low
+The Jerusalem Post,center,3,News Media,49.74%,NA
+The Justice,left-center,2,News Media,47.27%,Low
+The Korea Herald,center,3,News Media,63.98%,Low
+The Libertarian Republic,right-center,4,News Media,55.19%,Low
+The Nation,left,1,News Media,75.91%,NA
+The New Yorker,left,1,News Media,76.17%,Low
+The Observer (New York),center,3,News Media,35.12%,Low
+The Oracle,center,3,News Media,35.77%,Low
+The Philadelphia Inquirer,left-center,2,News Media,41.09%,Low
+The Post Millennial,right-center,4,News Media,64.41%,Low
+The Red and Black,center,3,News Media,58.55%,Low
+The Reliable Bias,center,3,News Media,37.80%,NA
+The Republican,center,3,News Media,28.77%,Low
+The Resurgent,right,5,News Media,61.90%,Low
+The Root,left-center,2,News Media,42.27%,Low
+The Sacramento Bee,left-center,2,News Media,49.35%,Low
+The Saturday Evening Post,center,3,News Media,60.87%,Low
+The Telegraph - UK,right-center,4,News Media,63.11%,Low
+The Texas Observer,left-center,2,News Media,47.83%,NA
+The Verge,left-center,2,News Media,61.34%,Low
+The Week - News,center,3,News Media,57.11%,Low
+The Weekly Standard,right,5,News Media,63.12%,High
+TheBlaze.com,right,5,News Media,56.24%,Medium
+ThinkProgress,left,1,News Media,76.21%,Low
+Thomas Frank,left-center,2,Author,47.18%,Low
+Thomas Sowell,right-center,4,Author,57.87%,NA
+Tim Groseclose,right-center,4,Author,65.49%,NA
+Tim Pool,center,3,Author,67.63%,Medium
+Time Magazine,left-center,2,News Media,54.66%,Low
+Tom Cole,right,5,Author,64.18%,NA
+Tom Nichols,right-center,4,Author,14.29%,Low
+Tom Toles (cartoonist),left,1,Author,56.18%,NA
+Tony Auth (cartoonist),left,1,Author,52.50%,NA
+Townhall,right,5,News Media,39.41%,Medium
+Truth or Fiction,center,3,News Media,55.26%,Low
+Truthdig,left,1,News Media,82.35%,Low
+TruthOut,left-center,2,News Media,48.36%,NA
+Tucker Carlson,right,5,Author,59.56%,Medium
+U.S. News & World Report,left-center,2,News Media,47.07%,Low
+Univision,left-center,2,News Media,44.55%,Low
+Upworthy,left,1,News Media,59.57%,Low
+USA TODAY,left-center,2,News Media,55.41%,High
+Vanity Fair,left-center,2,News Media,60.82%,Low
+Vice,left,1,News Media,76.97%,Low
+Victor Hanson,right-center,4,Author,47.87%,NA
+Volante,center,3,News Media,47.79%,Low
+Vote Smart,center,3,Think Tank / Policy Group,48.09%,NA
+Vox,left,1,News Media,50.27%,High
+VT Digger,left-center,2,News Media,43.82%,Low
+Wake Up to Politics,center,3,News Media,56.76%,Low
+Wall Street Journal - Editorial,right-center,4,News Media,57.58%,High
+Wall Street Journal - News,center,3,News Media,41.14%,High
+Walt Handelsman (cartoonist),left,1,Author,46.53%,NA
+WANDTV,center,3,News Media,NaN,Low
+Washington Examiner,right-center,4,News Media,65.15%,Medium
+Washington Free Beacon,right,5,News Media,49.66%,Low
+Washington Monthly,left-center,2,News Media,52.85%,Low
+Washington Post,left-center,2,News Media,61.47%,High
+Washington Times,right-center,4,News Media,66.46%,Medium
+Watchdog.org,right-center,4,News Media,48.23%,Low
+Western Journalism,right,5,News Media,69.80%,Medium
+WFAE,center,3,News Media,45.49%,Low
+WGBH,center,3,News Media,54.84%,Low
+WGN,center,3,News Media,33.33%,Low
+Whatfinger News,right,5,News Media,58.04%,Low
+Whitehouse.gov,right-center,4,Think Tank / Policy Group,45.97%,Low
+Willam A. Galston,left-center,2,Author,50.64%,Low
+William Bennett,right,5,Author,41.85%,NA
+William McGurn,right,5,Author,68.18%,NA
+Wisconsin Gazette,left-center,2,News Media,53.00%,NA
+WND.com,right,5,News Media,71.15%,High
+Yahoo! News,left-center,2,News Media,55.54%,Medium
+Yes! Magazine,left,1,News Media,68.08%,NA
