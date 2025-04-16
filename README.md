@@ -1,16 +1,41 @@
-# Media-Bias
+📰 Media Bias Analysis Dashboard
 
-In a time where political polarity and division is high, I like many others started to question the sources of my information and just how far media bias can go in either direction.
+    Exploring media bias in an age of division and polarization.
 
-The purpose of this project was to give me the opportunity to analyze the media bias of given outlets, and to either elimate highly biased outlets or balance them with those on the other end of the spectrum.
+📌 Overview
 
-I ended up deciding between two options; [MBIC](https://www.kaggle.com/datasets/timospinde/mbic-a-media-bias-annotation-dataset) and AllSides. The MBIC dataset has far more information down to specific article and annotater levels, so I decided to go with AllSides for a more high-level and easily digestable dashboard.
+In a time where political division is increasingly evident, I—like many others—began to question the reliability and bias of the news I consume. This project is my attempt to dive into media bias across major news outlets and build an interactive dashboard to make bias easier to visualize and understand.
 
-The AllSides dataset was created in 2019, and from that point forward has updated their ratings based on community votes. I manually updated any ratings that have been updated in 2019 for major outlets such as Bloomberg and the Guardian.
+My goal wasn't necessarily to eliminate biased sources, but rather to better balance my media diet by understanding which outlets lean left, right, or center.
+📂 Dataset Selection
 
-Data Cleaning was minimal on this dataset, mostly just removing any outlets without a bias score, and making the wording of bias's more intuitive. 
+After evaluating several options, I narrowed it down to two:
 
-The primary questions I hoped for this to answer:
-A) Is there more of a left or right media bias in general?
-B) Identify prominent outlets that are left, right, or center. 
-C) Are there particular outlets more crediable than others, despite bias?
+    🧠 MBIC (Media Bias Including Characteristics) – Highly detailed, with word-level annotations and annotator profiles.
+
+    📊 AllSides Media Bias Ratings – Simpler, high-level categorization of outlet bias (e.g. Left, Center, Right), ideal for dashboarding.
+
+I ultimately chose AllSides for this project due to its ease of use and digestibility for broader audiences.
+🗂️ About the Data
+
+    The AllSides dataset was originally created in 2019.
+
+    Ratings are continuously updated based on community votes and editorial reviews.
+
+    I manually updated several ratings based on recent changes (e.g. Bloomberg and The Guardian as of 2024).
+
+🔧 Data Cleaning
+
+Minimal cleaning was required:
+
+    Removed outlets without a bias rating.
+
+    Standardized wording for bias labels (e.g., “Lean Left” → “Left-leaning” for clarity).
+
+🎯 Key Questions Explored
+
+    Is there more left-leaning or right-leaning bias overall?
+
+    Which outlets are most prominent across the bias spectrum?
+
+    Are certain outlets more credible than others, regardless of their bias?
