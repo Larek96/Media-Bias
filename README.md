@@ -8,7 +8,7 @@ I ended up deciding between two options; [MBIC](https://www.kaggle.com/datasets/
 
 The AllSides dataset was created in 2019, and from that point forward has updated their ratings based on community votes. I manually updated any ratings that have been updated in 2019 for major outlets such as Bloomberg and the Guardian.
 
-This dataset includes a column, percent_agree, that gives a rating on how much the community agrees with a given rating. I formatted this from a decimal to a percentage, and added a gradient conditional formatting to showcase scores that may be questionable. 
+Data Cleaning was minimal on this dataset, mostly just removing any outlets without a bias score, and making the wording of bias's more intuitive. 
 
 The primary questions I hoped for this to answer:
 A) Is there more of a left or right media bias in general?
