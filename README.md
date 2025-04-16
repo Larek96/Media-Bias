@@ -1,10 +1,8 @@
 📰 Media Bias Analysis Dashboard
 
-    Exploring media bias in an age of division and polarization.
-
 📌 Overview
 
-In a time where political division is increasingly evident, I—like many others—began to question the reliability and bias of the news I consume. This project is my attempt to dive into media bias across major news outlets and build an interactive dashboard to make bias easier to visualize and understand.
+In a time where political division is increasingly evident, I—like many others—began to question the reliability and bias of the news I consume. This project is my attempt to analyze media bias across major news outlets and build an interactive dashboard to make bias easier to visualize and understand.
 
 My goal wasn't necessarily to eliminate biased sources, but rather to better balance my media diet by understanding which outlets lean left, right, or center.
 📂 Dataset Selection
@@ -26,7 +24,7 @@ I ultimately chose AllSides for this project due to its ease of use and digestib
 
 🔧 Data Cleaning
 
-Minimal cleaning was required:
+Minimal data cleaning was required:
 
     Removed outlets without a bias rating.
 
