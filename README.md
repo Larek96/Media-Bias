@@ -1,37 +1,46 @@
-📰 Media Bias Analysis Dashboard
+# 📰 Media Bias Analysis Dashboard
 
-📌 Overview
+## 📌 Overview
 
-In a time where political division is increasingly evident, I—like many others—began to question the reliability and bias of the news I consume. This project is my attempt to analyze media bias across major news outlets and build an interactive dashboard to make bias easier to visualize and understand.
+In an era of rising political division, I—like many others—started questioning the reliability of the news I consume. This project explores **media bias across major news outlets**, aiming to create an **interactive dashboard** that visualizes bias in a clear, digestible format.
 
-My goal wasn't necessarily to eliminate biased sources, but rather to better balance my media diet by understanding which outlets lean left, right, or center.
+> 💡 The goal isn't to eliminate biased sources, but to **balance** media consumption by understanding which outlets lean **left**, **center**, or **right**.
 
-📂 Dataset Selection
-After evaluating several options, I narrowed it down to two:
+---
 
-    🧠 MBIC (Media Bias Including Characteristics) – Highly detailed, with word-level annotations and annotator profiles.
+## 📂 Dataset Selection
 
-    📊 AllSides Media Bias Ratings – Simpler, high-level categorization of outlet bias (e.g. Left, Center, Right), ideal for dashboarding.
+After comparing options, I focused on two potential datasets:
 
-I ultimately chose AllSides for this project due to its ease of use and digestibility for broader audiences.
+- 🧠 **MBIC (Media Bias Including Characteristics)**  
+  Highly detailed with word- and sentence-level bias annotations and annotator profiles.
 
-🗂️ About the Data
-    The AllSides dataset was originally created in 2019.
+- 📊 **AllSides Media Bias Ratings**  
+  A high-level classification of political bias (e.g., *Left*, *Center*, *Right*) for hundreds of news outlets.
 
-    Ratings are continuously updated based on community votes and editorial reviews.
+➡️ I chose **AllSides** due to its clarity and accessibility, making it ideal for building a simple yet powerful dashboard.
 
-    I manually updated several ratings based on recent changes (e.g. Bloomberg and The Guardian as of 2024).
+---
 
-🔧 Data Cleaning
-Minimal data cleaning was required:
+## 🗂️ About the Data
 
-    Removed outlets without a bias rating.
+- Originally created in **2019**.
+- Ratings are **continuously updated** through community votes and editorial reviews.
+- I **manually updated** some major outlet ratings (e.g., **Bloomberg**, **The Guardian**) based on changes up to **2024**.
 
-    Standardized wording for bias labels (e.g., “Lean Left” → “Left-leaning” for clarity).
+---
 
-🎯 Key Questions Explored
-    Is there more left-leaning or right-leaning bias overall?
+## 🔧 Data Cleaning
 
-    Which outlets are most prominent across the bias spectrum?
+Only minimal cleanup was needed:
 
-    Are certain outlets more credible than others, regardless of their bias?
+- 🗑️ Removed outlets with missing bias ratings.
+- ✏️ Standardized bias labels for clarity  
+
+---
+
+## 🎯 Key Questions Explored
+
+1. 📈 Is there more left-leaning or right-leaning media bias overall?
+2. 📰 Which outlets are the most prominent across the bias spectrum?
+3. ✅ Are some outlets more **credible**, even if biased?
