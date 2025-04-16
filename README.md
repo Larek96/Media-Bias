@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-In an era of rising political division, I—like many others—started questioning the reliability of the news I consume. This project explores **media bias across major news outlets**, aiming to create an **interactive dashboard** that visualizes bias in a clear, digestible format.
+In an era of rising political division, I started questioning the reliability of the news I consume. This project explores **media bias across major news outlets**, aiming to create an **interactive dashboard** that visualizes bias in a clear, digestible format.
 
 > 💡 The goal isn't to eliminate biased sources, but to **balance** media consumption by understanding which outlets lean **left**, **center**, or **right**.
 
