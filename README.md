@@ -37,6 +37,7 @@ Only minimal cleanup was needed:
 - 🗑️ Removed outlets with missing bias ratings.
 - ✏️ Standardized bias labels for clarity  
 
+Once the data was cleaned and outliers removed, I used PowerQuery to import the excel file to Power BI.
 ---
 
 ## 🎯 Key Questions Explored
