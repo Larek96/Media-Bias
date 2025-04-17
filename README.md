@@ -27,6 +27,7 @@ After comparing options, I focused on two potential datasets:
 - Originally created in **2019**.
 - Ratings are **continuously updated** through community votes and editorial reviews.
 - I **manually updated** some major outlet ratings (e.g., **Bloomberg**, **The Guardian**) based on changes up to **2024**.
+- Added a new column called "relevant" that is filled with "yes" if I know of the outlet.
 
 ---
 
