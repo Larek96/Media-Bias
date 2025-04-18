@@ -43,6 +43,7 @@ Once the data was cleaned and outliers removed, I used PowerQuery to import the 
 
 ## 🎯 Key Questions Explored
 
-1. 📈 Is there more left-leaning or right-leaning media bias overall?
-2. 📰 Which outlets are the most prominent across the bias spectrum?
-3. ✅ Are some outlets more **credible**, even if biased?
+1. Is there more left-leaning or right-leaning media bias overall?
+2. Amongst well-known MSM outlets, is there a left or right bias?
+3. Are some outlets more credible, even if biased?
+4. Which outlets should I follow if I want left, center, or right perspectives?
