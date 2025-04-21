@@ -57,9 +57,9 @@ Media representation leans left overall.
 
 ## By Credibility
 
-    High and low credibility outlets tend to be left-biased.
+   High and low credibility outlets tend to be left-biased.
 
-    Medium credibility sources skew right. 
+   Medium credibility sources skew right. 
 ![vSwgsuV](https://github.com/user-attachments/assets/2c206283-030a-4783-849e-580c97808843)
 
 
