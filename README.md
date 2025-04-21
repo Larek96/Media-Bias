@@ -49,21 +49,30 @@ Only minimal cleanup was needed:
 
 --- 
 
-## PivotTable Excel Analysis
-Overall, Media is clearly biased to the left. 
+📊 Excel PivotTable Analysis
+General Overview
+
+Media representation leans left overall. 
 ![AgHyTlH](https://github.com/user-attachments/assets/316a0370-8367-45bd-b32d-1705446476da)
 
-Of all outlets: high and low credibility sources are left biased, and medium credibility sources are very right-biased.
+By Credibility
+
+    High and low credibility outlets tend to be left-biased.
+
+    Medium credibility sources skew right. 
 ![vSwgsuV](https://github.com/user-attachments/assets/2c206283-030a-4783-849e-580c97808843)
 
 
-Of popular outlets: whether it be high, medium, or low credibility, the left was more represented. No clear link between credibility and bias.
+Popular Outlets Only
+
+Across all credibility levels, left-leaning outlets dominate.
+No clear link was found between bias and credibility. 
 ![EWFICPn](https://github.com/user-attachments/assets/87bf90f9-bdda-455d-8f22-4828cfb0e5f7)
 
-## PowerBI Analysis
+📈 Power BI Dashboard
 
-Left media is clearly more represented in the media landscape, with far-right wing sources having surprisingly levels of credibility, especially compared to how low credibility right-center biased outlets seem.
+The Power BI visualization confirms that left-leaning outlets dominate the media landscape. Interestingly, some far-right sources show high credibility, while right-center outlets often rank lower.
 
-A table giving suggestions of who to follow based on this dataset are given, narrowed down to popular, high credibility outlets with their biases given in case you want a particular view point.
+A suggestion table is included in the dashboard, recommending popular, high-credibility outlets across the bias spectrum, helping you curate a balanced media diet. 
 ![image](https://github.com/user-attachments/assets/1a802ac4-1358-491c-917b-8734416894f4)
 
