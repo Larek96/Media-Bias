@@ -50,12 +50,12 @@ Only minimal cleanup was needed:
 --- 
 
 ## 📊 Excel PivotTable Analysis
-General Overview
+## General Overview
 
 Media representation leans left overall. 
 ![AgHyTlH](https://github.com/user-attachments/assets/316a0370-8367-45bd-b32d-1705446476da)
 
-By Credibility
+## By Credibility
 
     High and low credibility outlets tend to be left-biased.
 
@@ -63,7 +63,7 @@ By Credibility
 ![vSwgsuV](https://github.com/user-attachments/assets/2c206283-030a-4783-849e-580c97808843)
 
 
-Popular Outlets Only
+## Popular Outlets Only
 
 Across all credibility levels, left-leaning outlets dominate.
 No clear link was found between bias and credibility. 
