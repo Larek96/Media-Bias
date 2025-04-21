@@ -15,10 +15,10 @@ After comparing options, I focused on two potential datasets:
 - 🧠 **MBIC (Media Bias Including Characteristics)**  
   Highly detailed with word- and sentence-level bias annotations and annotator profiles.
 
-- 📊 **AllSides Media Bias Ratings**  
+- **AllSides Media Bias Ratings**  
   A high-level classification of political bias (e.g., *Left*, *Center*, *Right*) for hundreds of news outlets.
 
-➡️ I chose **AllSides** due to its clarity and accessibility, making it ideal for building a simple yet powerful dashboard.
+➡️ I chose **AllSides** due to its clarity and accessibility, making it ideal for building a simple dashboard.
 
 ---
 
