@@ -36,9 +36,8 @@ After comparing options, I focused on two potential datasets:
 Only minimal cleanup was needed:
 
 - 🗑️ Removed outlets with missing bias ratings.
-- ✏️ Standardized bias labels for clarity  
+- ✏️ Standardized bias labels for clarity
 
-Once the data was cleaned and outliers removed, I used PowerQuery to import the excel file to Power BI.
 ---
 
 ## 🎯 Key Questions Explored
@@ -47,3 +46,7 @@ Once the data was cleaned and outliers removed, I used PowerQuery to import the 
 2. Amongst well-known MSM outlets, is there a left or right bias?
 3. Are some outlets more credible, even if biased?
 4. Which outlets should I follow if I want left, center, or right perspectives?
+
+--- 
+
+## PivotTable Excel Analysis
