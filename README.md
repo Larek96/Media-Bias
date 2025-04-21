@@ -49,7 +49,7 @@ Only minimal cleanup was needed:
 
 --- 
 
-📊 Excel PivotTable Analysis
+## 📊 Excel PivotTable Analysis
 General Overview
 
 Media representation leans left overall. 
@@ -69,7 +69,7 @@ Across all credibility levels, left-leaning outlets dominate.
 No clear link was found between bias and credibility. 
 ![EWFICPn](https://github.com/user-attachments/assets/87bf90f9-bdda-455d-8f22-4828cfb0e5f7)
 
-📈 Power BI Dashboard
+## 📈 Power BI Dashboard
 
 The Power BI visualization confirms that left-leaning outlets dominate the media landscape. Interestingly, some far-right sources show high credibility, while right-center outlets often rank lower.
 
